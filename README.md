@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Support Analyst at Embrapa
-- 🌱 Studying HTML CSS
+- 🔭 Java Developer
+- 🌱 Studying Java
 <div align="center">
   <a href="https://github.com/vitorfuzo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorfuzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
