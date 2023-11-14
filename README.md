@@ -14,6 +14,7 @@
 ### :eyes: What I am doing
 
 - 👨🏼‍💻 I’m currently studying Java
+- ✏️ I'm looking for an opportunity to put my knowledge into practice
 
 ### :mailbox_with_mail: Find me and get in touch
 
